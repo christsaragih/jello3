@@ -1,4 +1,4 @@
-package com.bagicode.jello.ui.theme
+package com.bagicode.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
